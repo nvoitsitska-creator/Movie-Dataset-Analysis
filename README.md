@@ -9,6 +9,10 @@ This project explores a historical movie dataset (1900–2019) obtained from Wik
 - Compare actor filmography in top-3 genres versus other genres
 - Export results as CSV and PNG files
 
+## Dashboards
+
+- [Looker Studio link]([https://datastudio.google.com/reporting/...](https://lookerstudio.google.com/reporting/67c4e20d-1998-4740-b605-b7b47fc19d18))
+
 ## Project Structure
 movie-analysis/
 ├── data/        # raw JSON files
