@@ -11,7 +11,7 @@ This project explores a historical movie dataset (1900–2019) obtained from Wik
 
 ## Dashboards
 
-- Looker Studio link - https://datastudio.google.com/reporting/...](https://lookerstudio.google.com/reporting/67c4e20d-1998-4740-b605-b7b47fc19d18
+- Looker Studio link - https://lookerstudio.google.com/reporting/67c4e20d-1998-4740-b605-b7b47fc19d18
 
 ## Project Structure
 movie-analysis/
