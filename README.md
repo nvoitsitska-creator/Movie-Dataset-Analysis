@@ -72,7 +72,8 @@ movie-analysis/
 
 Clone the repository:
 
-```git clone <https://github.com/nvoitsitska-creator/MovieDatasetAnalysis.git>
+```
+git clone <https://github.com/nvoitsitska-creator/MovieDatasetAnalysis.git>
 cd movie-analysis
 ```
 
@@ -91,7 +92,8 @@ Install dependencies:
 
 ## Load and preprocess data:
 
-```from src.data_loading import download_json_files, load_and_clean_json_files, save_dataframe
+```
+from src.data_loading import download_json_files, load_and_clean_json_files, save_dataframe
 import numpy as np
 from pathlib import Path
 
@@ -105,7 +107,8 @@ base_url = "https://raw.githubusercontent.com/prust/wikipedia-movie-data/refs/he
 # Download JSON files
 ```download_json_files(base_url, decades, DATA_DIR)```
 # Load and clean
-```df = load_and_clean_json_files(decades, DATA_DIR)
+```
+df = load_and_clean_json_files(decades, DATA_DIR)
 save_dataframe(df, OUT_DIR / 'movies_clean.csv')
 ```
 
