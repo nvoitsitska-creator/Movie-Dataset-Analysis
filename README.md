@@ -114,7 +114,7 @@ save_dataframe(df, OUT_DIR / 'movies_clean.csv')
 
 ### Dashboards
 Explore interactive visualizations on Looker Studio:
-[Looker Studio Dashboard](https://lookerstudio.google.com/reporting/12cf5bbe-9486-44d5-bf83-08c40de09a6f)
+[Looker Studio Dashboard](https://lookerstudio.google.com/reporting/67c4e20d-1998-4740-b605-b7b47fc19d18)
 
 ## Output Artifacts
 
